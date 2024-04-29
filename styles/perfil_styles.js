@@ -7,7 +7,7 @@ export const Container = styled.div`
   height: calc(100%vh);
 `;
 
-export const Content = styled.div`
+export const Content = styled.div `
   width: 1120px;
   height: 100%;
   display: flex;
@@ -24,7 +24,13 @@ export const Content = styled.div`
   @media (max-width: 600px) {
     padding: 10px;
   }
+
+  ul {
+  margin-left: 20px;
+  }
 `;
+
+
 
 
 
