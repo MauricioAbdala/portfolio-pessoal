@@ -13,7 +13,7 @@ export default function Perfil() {
                     <p>Kenzie Academy Brasil, Desenvolvimento-Web Full-Stack | FEV DE 2023- FEV DE 2024
                         Curso livre com 2.000h.</p><br />
                     <h3>Experiência</h3>
-                    <p>Atualmente estou em transição de carreira para a área da tecnologia  </p>
+                    <p>Junto ao Team Kenzie Academy com formação em desenvolvedor FullStack adquiri muita prática e experiência, </p>
                     <ul>
                         <li>Domínio em: HTML5, CSS3, Vanilla Js, JavaScript(ES6+), noções de UX, React, Next.js, TypeScript, Express, consumo de APIs,Python, Django, Node.js</li>
                         <li>Conhecimento em banco de dados: PostgreSQL, MySQL</li>
