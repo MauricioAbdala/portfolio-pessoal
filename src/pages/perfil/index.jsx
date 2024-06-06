@@ -9,17 +9,31 @@ export default function Perfil() {
             <Content>
                 <div>
                     <h2>Sobre Mim</h2><br />
-                    <h3>Formação</h3>
+                    <h3>Formação Curso Profissionalizante</h3>
                     <p>Kenzie Academy Brasil, Desenvolvimento-Web Full-Stack | FEV DE 2023- FEV DE 2024
                         Curso livre com 2.000h.</p><br />
                     <h3>Experiência</h3>
-                    <p>Junto ao Team Kenzie Academy com formação em desenvolvedor FullStack adquiri muita prática e experiência, </p>
+                    <p>Bootcamp na Kenzie Academy em web desenvolvimento FullStack </p><br />
+                    <h3>Síntese de qualificações</h3>
                     <ul>
-                        <li>Domínio em: HTML5, CSS3, Vanilla Js, JavaScript(ES6+), noções de UX, React, Next.js, TypeScript, Express, consumo de APIs,Python, Django, Node.js</li>
-                        <li>Conhecimento em banco de dados: PostgreSQL, MySQL</li>
+                        <li>Domínio em: HTML5, CSS3, JavaScriptVanilla, (ES6+), Node.js e noções de UX\UI</li>
+                        <li>Bibliotecas mais utilizadas : React, Sass, Bootstrap, Handlebars, Axios</li>
+                        <li>Frameworks: Vite, Express, Next.js, Nest.js, Jango</li>
+                        <li>Linguagens de programação: JavaScript, TypeScript, Python</li>
+                        <li>Bancos de dados: PostgreSQL, MySQL</li>
+                        <li>Sistema operacional: Windows</li>
+                        <li>Programação orientada a objeto: OOP</li>
+                        <li>Análise de dados PowerBI, criação de Dashboards interativos</li>
                         <li>Inglês básico</li>
                         <li> Espanhol intermediário</li>
-                    </ul>
+                    </ul><br />
+                    <h3>Cursos e Certificados</h3>
+                    <ul>
+                        <li>Simplifica Treinamentos, Power BI Express</li>
+                        <li>Comunidade Data Driven, Power BI Discovery</li>
+                        <li>Udemy, JavaScript do básico ao avançado(c/Node.js e projetos)</li>
+                        <li>Kenzie Academy, Soft Skills</li>
+                    </ul><br />
                     <h3>Principais projetos</h3>
                     <a href="https://react-entrega-kenzie-hub-mauricio-abdala.vercel.app/">Kenzie Hub</a>
                     <p>O objetivo deste projeto foi criar uma aplicação completa com formulário, validação de cadastro,
